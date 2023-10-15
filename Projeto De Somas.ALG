@@ -1,4 +1,4 @@
-algoritmo "Projeto01  Keslley"
+algoritmo "Projeto de calculos"
 var
   N1, N2, N3, N4, S, MN1, MN2, MN3, MN4, AX, NT1, NT2, NT3, NT4, P1, P2, P3, P4 : inteiro
   ST, STM, MP : real
@@ -22,7 +22,7 @@ inicio
  EscrevaL("A media simples e:", ST)
 
  Escreval("----------------------------------------------------------------")
- EscrevaL("Agora começaremos a calcular os lados de um triangulo")
+ EscrevaL("Agora comeÃ§aremos a calcular os lados de um triangulo")
  Escreval("----------------------------------------------------------------")
  EQ <- (N1 = N2) E (N2 = N3)
  ES <- (N1 <> N2) E (N2 <> N3) E (N1 <> N3)
@@ -75,7 +75,7 @@ inicio
 Escreval("----------------------------------------------------------------")
 EscrevaL("Terminamos a parte de calculos de medianas")
 Escreval("----------------------------------------------------------------")
-EscrevaL("Agora começaremos a calcular a A media ponderada com os")
+EscrevaL("Agora comeÃ§aremos a calcular a A media ponderada com os")
 EscrevaL("respectivos pesos: 1, 2, 3, 4")
 Escreval("----------------------------------------------------------------")
 
