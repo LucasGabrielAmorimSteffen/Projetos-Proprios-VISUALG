@@ -22,7 +22,7 @@ inicio
  EscrevaL("A media simples e:", ST)
 
  Escreval("----------------------------------------------------------------")
- EscrevaL("Agora começaremos a calcular os lados de um triangulo")
+ EscrevaL("Agora comecaremos a calcular os lados de um triangulo")
  Escreval("----------------------------------------------------------------")
  EQ <- (N1 = N2) E (N2 = N3)
  ES <- (N1 <> N2) E (N2 <> N3) E (N1 <> N3)
